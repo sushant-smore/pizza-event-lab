@@ -6,7 +6,6 @@ This project shows how orders can be created via a web interface and processed a
 ---
 
 ## 📂 Project Structure
-.
 ├── Dockerfile # Builds the container for the app
 ├── entrypoint.sh # Startup script for container
 ├── processor.py # Processes pizza orders (event consumer)
